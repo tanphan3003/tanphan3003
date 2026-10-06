@@ -14,11 +14,11 @@
 
 ### 🧑‍💻 About me
 
-- 📈 Trade **crypto, vàng (XAUUSD)** và bạc (XAGUSD)
-- 🤖 Xây dựng **bot giao dịch tự động** (MT4/MT5) và **indicator** trên TradingView
-- 🎬 Làm nội dung ngắn về **tài chính & đầu tư** cho thị trường Việt Nam
-- 🌱 Đang học và xây thêm công cụ tự động hóa với AI
-- 📫 Liên hệ: xem phần **Contact** bên dưới
+- 📈 I trade **crypto, gold (XAUUSD)** and silver (XAGUSD)
+- 🤖 I build **automated trading bots** (MT4/MT5) and **TradingView indicators**
+- 🎬 I create short-form content about **finance & investing** for the Vietnamese market
+- 🌱 Currently learning and building more automation tools with AI
+- 📫 Reach me: see the **Contact** section below
 
 ---
 
@@ -37,14 +37,14 @@
 
 ### 🚀 Projects
 
-<!-- TODO: thêm dự án của bạn vào đây. Gợi ý format: -->
+<!-- TODO: add your projects here. Suggested format: -->
 <!--
-| Dự án | Mô tả | Công nghệ |
+| Project | Description | Tech |
 |---|---|---|
-| [ten-du-an](https://github.com/tanphan3003/ten-du-an) | Mô tả ngắn 1 dòng | Python, MQL5 |
+| [project-name](https://github.com/tanphan3003/project-name) | One-line description | Python, MQL5 |
 -->
 
-> 🔧 Đang cập nhật, các dự án sẽ sớm được thêm vào đây.
+> 🔧 Work in progress, projects will be added here soon.
 
 ---
 
@@ -83,7 +83,7 @@
   </picture>
 </p>
 
-<!-- Cần thêm file .github/workflows/snake.yml (đã gửi kèm) để rắn hoạt động -->
+<!-- Requires .github/workflows/snake.yml (provided separately) for the snake to render -->
 
 ---
 
@@ -91,9 +91,9 @@
 
 <p align="center">
   <a href="https://t.me/tanphan3003"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:tanphanvan123456@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@tanphan3003"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tanphan3003"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.tiktok.com/@YOUR_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.facebook.com/YOUR_FACEBOOK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐ Nếu thấy hữu ích, hãy để lại một star nhé!</i></p>
+<p align="center"><i>⭐ If you find something useful here, feel free to leave a star!</i></p>
